@@ -1,0 +1,19 @@
+<InGui>:
+    test: test
+    GridLayout:
+        cols: 1
+        size: root.width, root.height
+        
+        GridLayout:
+            cols: 2
+        
+            Label:
+                text: "test"
+            
+            TextInput:
+                id: test
+                multiline: False
+
+        Button:
+            text: "Submit"
+            on_press: root.btn()
