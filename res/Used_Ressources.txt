@@ -4,3 +4,4 @@ This document will contain all relevant ressources that have been used in creati
 
 - https://kivy.org/doc/stable/installation/installation-rpi.html#install-source-rpi
 - https://kivy.org/doc/stable/gettingstarted/installation.html
+- https://www.youtube.com/watch?v=lnOTAq4NQfQ&list=PLzMcBGfZo4-kSJVMyYeOQ8CXJ3z1k7gHn
